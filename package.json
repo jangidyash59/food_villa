@@ -1,0 +1,27 @@
+{
+  "name": "food_villa",
+  "version": "1.0.0",
+  "description": "react app",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jangidyash59/food_villa.git"
+  },
+  "author": "Yash Jangid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jangidyash59/food_villa/issues"
+  },
+  "homepage": "https://github.com/jangidyash59/food_villa#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
